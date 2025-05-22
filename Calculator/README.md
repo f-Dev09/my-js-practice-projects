@@ -19,7 +19,9 @@ Big thanks to the creator for the clear and helpful guide!
 
 ## 📸 Screenshot
 
-![iPhone Calculator Clone](screenshot.png) 
+<p align="center">
+  <img src="Screenshot.png" width="300">
+</p>
 
 ## 🛠️ Tech Stack
 
