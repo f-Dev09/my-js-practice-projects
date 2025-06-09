@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="js-banner.png" alt="My JS Practice Projects" />
+  <img src="banner-js.png" alt="My JS Practice Projects" />
 </p>
 
 Welcome✨! This repository contains a collection of small projects I'm building as I learn JavaScript. Each folder includes its own mini-project, source code, and a README file explaining what it does.
