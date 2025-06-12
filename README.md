@@ -8,6 +8,7 @@ Welcome✨! This repository contains a collection of small projects I'm building
 
 - [📱 iPhone Calculator](./Calculator) – A replica of the iOS calculator built with HTML, CSS, and JavaScript.
 - [Tic Tac Toe](./Tic-Tac-Toe) 
+- [whack-a-mole](./whac-a-mole/)
 <!-- - [⏰ Digital Clock](./DigitalClock) – Shows the current time using the JavaScript `Date` object.  
 - [💵 Tip Calculator](./TipCalculator) – Calculates tips and total bill based on user input.  
 - [🔢 Counter App](./CounterApp) – A simple + and − counter with reset button.  
